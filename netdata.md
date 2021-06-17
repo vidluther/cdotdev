@@ -1,7 +1,7 @@
 ---
 title: NetData 
-product_url: 
-excerpt: "Excerpt/Short description of tool"
+product_url: https://www.netdata.cloud/
+excerpt: "Monitor everything in real time. For Free"
 ---
 # [{{ post.title }}]({{ post.product_url }})
 
