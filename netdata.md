@@ -1,5 +1,3 @@
-
-
 ---
 title: NetData 
 product_url: 
@@ -12,8 +10,7 @@ Real time monitoring for all your infrastructure.
 
 
 ## What I like about it? 
-Easy to setup, setup script automatically configured module to monitor my Pi-hole install, so auto service discovery is a plus. Completely free to 
-use right now, allows per agent/node monitoring on port 19999, or consolidated view with NetData Cloud.
+Easy to get up and running, setup script even configured module to monitor my Pi-hole install.  Completely free to use right now, allows per agent/node monitoring on port 19999, or consolidated view with NetData Cloud.
 
 ## What I don't like about it? 
 
