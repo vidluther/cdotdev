@@ -13,4 +13,4 @@ Clean interface, and it gives you the basics for one system easily. This is grea
 
 ## What I don't like about it? 
 
-Not really designed for aggregating data for multiple systems. So, this isn't really scalable when you have more than one server/system to monitor. 
+Not really designed for aggregating data for multiple systems. So, this isn't really scalable when you have more than one server/system to monitor. Development/maintenance of this project also seems to have slowed down, so not sure how well it's supported. 
